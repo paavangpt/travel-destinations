@@ -1,87 +1,247 @@
 {
-  "destinations": [
-    {
-      "title": "Paris, France",
-      "description": "The romantic capital of the world, home to the Eiffel Tower, exquisite art, and charming cafés.",
-      "thumbnail": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$450",
-      "hotel_price": "$120/night",
-      "link": "https://www.google.com/search?q=Paris+France"
-    },
-    {
-      "title": "Tokyo, Japan",
-      "description": "A buzzing metropolis where cutting-edge technology meets serene temples and cherry blossoms.",
-      "thumbnail": "https://images.unsplash.com/photo-1518733057094-95b53151d6db?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$700",
-      "hotel_price": "$150/night",
-      "link": "https://www.google.com/search?q=Tokyo+Japan"
-    },
-    {
-      "title": "Cape Town, South Africa",
-      "description": "Spectacular landscapes with Table Mountain, pristine beaches, and vibrant culture.",
-      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$620",
-      "hotel_price": "$110/night",
-      "link": "https://www.google.com/search?q=Cape+Town+South+Africa"
-    },
-    {
-      "title": "Sydney, Australia",
-      "description": "A coastal city famous for its Opera House, stunning beaches, and laid-back vibe.",
-      "thumbnail": "https://images.unsplash.com/photo-1506976785307-8732e854ad5e?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$800",
-      "hotel_price": "$130/night",
-      "link": "https://www.google.com/search?q=Sydney+Australia"
-    },
-    {
-      "title": "New York City, USA",
-      "description": "The city that never sleeps, packed with iconic landmarks and a diverse food scene.",
-      "thumbnail": "https://images.unsplash.com/photo-1533106418989-88406c7cc8f6?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$550",
-      "hotel_price": "$180/night",
-      "link": "https://www.google.com/search?q=New+York+City+USA"
-    },
-    {
-      "title": "Rome, Italy",
-      "description": "An eternal city filled with ancient ruins, Renaissance art, and vibrant street life.",
-      "thumbnail": "https://images.unsplash.com/photo-1549887534-5a3231f7c59c?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$520",
-      "hotel_price": "$140/night",
-      "link": "https://www.google.com/search?q=Rome+Italy"
-    },
-    {
-      "title": "Bali, Indonesia",
-      "description": "A tropical paradise known for its beaches, rice terraces, and spiritual heritage.",
-      "thumbnail": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$400",
-      "hotel_price": "$90/night",
-      "link": "https://www.google.com/search?q=Bali+Indonesia"
-    },
-    {
-      "title": "Rio de Janeiro, Brazil",
-      "description": "A vibrant city famous for its carnival, Sugarloaf Mountain, and Copacabana beach.",
-      "thumbnail": "https://images.unsplash.com/photo-1523992034529-5e52729b96b0?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$750",
-      "hotel_price": "$100/night",
-      "link": "https://www.google.com/search?q=Rio+de+Janeiro+Brazil"
-    },
-    {
-      "title": "Barcelona, Spain",
-      "description": "A cultural hotspot renowned for Gaudí's architecture, tapas bars, and sunny beaches.",
-      "thumbnail": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$480",
-      "hotel_price": "$115/night",
-      "link": "https://www.google.com/search?q=Barcelona+Spain"
-    },
-    {
-      "title": "Dubai, UAE",
-      "description": "A futuristic city in the desert, home to the world's tallest building and luxury shopping.",
-      "thumbnail": "https://images.unsplash.com/photo-1504274066651-8d31a536b11a?auto=format&fit=crop&w=800&q=80",
-      "flight_price": "$670",
-      "hotel_price": "$160/night",
-      "link": "https://www.google.com/search?q=Dubai+UAE"
+    "destinations": [
+        {
+            "title": "Paris, France",
+            "description": "The romantic capital of the world, home to the Eiffel Tower, exquisite art, and charming cafés.",
+            "thumbnail": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$450",
+            "hotel_price": "$120/night",
+            "link": "https://www.google.com/search?q=Paris+France"
+        },
+        {
+            "title": "Tokyo, Japan",
+            "description": "A buzzing metropolis where cutting-edge technology meets serene temples and cherry blossoms.",
+            "thumbnail": "https://plus.unsplash.com/premium_photo-1661914240950-b0124f20a5c1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "flight_price": "$700",
+            "hotel_price": "$150/night",
+            "link": "https://www.google.com/search?q=Tokyo+Japan"
+        },
+        {
+            "title": "Cape Town, South Africa",
+            "description": "Spectacular landscapes with Table Mountain, pristine beaches, and vibrant culture.",
+            "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$620",
+            "hotel_price": "$110/night",
+            "link": "https://www.google.com/search?q=Cape+Town+South+Africa"
+        },
+        {
+            "title": "Sydney, Australia",
+            "description": "A coastal city famous for its Opera House, stunning beaches, and laid-back vibe.",
+            "thumbnail": "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "flight_price": "$800",
+            "hotel_price": "$130/night",
+            "link": "https://www.google.com/search?q=Sydney+Australia"
+        },
+        {
+            "title": "New York City, USA",
+            "description": "The city that never sleeps, packed with iconic landmarks and a diverse food scene.",
+            "thumbnail": "https://images.unsplash.com/photo-1533106418989-88406c7cc8f6?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$550",
+            "hotel_price": "$180/night",
+            "link": "https://www.google.com/search?q=New+York+City+USA"
+        },
+        {
+            "title": "Rome, Italy",
+            "description": "An eternal city filled with ancient ruins, Renaissance art, and vibrant street life.",
+            "thumbnail": "https://images.unsplash.com/photo-1549887534-5a3231f7c59c?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$520",
+            "hotel_price": "$140/night",
+            "link": "https://www.google.com/search?q=Rome+Italy"
+        },
+        {
+            "title": "Bali, Indonesia",
+            "description": "A tropical paradise known for its beaches, rice terraces, and spiritual heritage.",
+            "thumbnail": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$400",
+            "hotel_price": "$90/night",
+            "link": "https://www.google.com/search?q=Bali+Indonesia"
+        },
+        {
+            "title": "Rio de Janeiro, Brazil",
+            "description": "A vibrant city famous for its carnival, Sugarloaf Mountain, and Copacabana beach.",
+            "thumbnail": "https://images.unsplash.com/photo-1523992034529-5e52729b96b0?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$750",
+            "hotel_price": "$100/night",
+            "link": "https://www.google.com/search?q=Rio+de+Janeiro+Brazil"
+        },
+        {
+            "title": "Barcelona, Spain",
+            "description": "A cultural hotspot renowned for Gaudí's architecture, tapas bars, and sunny beaches.",
+            "thumbnail": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$480",
+            "hotel_price": "$115/night",
+            "link": "https://www.google.com/search?q=Barcelona+Spain"
+        },
+        {
+            "title": "Dubai, UAE",
+            "description": "A futuristic city in the desert, home to the world's tallest building and luxury shopping.",
+            "thumbnail": "https://images.unsplash.com/photo-1504274066651-8d31a536b11a?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$670",
+            "hotel_price": "$160/night",
+            "link": "https://www.google.com/search?q=Dubai+UAE"
+        },
+        {
+            "title": "Amsterdam, Netherlands",
+            "description": "Picturesque canals, vibrant tulips, and world-class museums make Amsterdam unforgettable.",
+            "thumbnail": "https://images.unsplash.com/photo-1507477338202-48734f9e1b3d?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$520",
+            "hotel_price": "$130/night",
+            "link": "https://www.google.com/search?q=Amsterdam+Netherlands"
+        },
+        {
+            "title": "Istanbul, Turkey",
+            "description": "A melting pot of cultures, where East meets West amid stunning mosques and bazaars.",
+            "thumbnail": "https://images.unsplash.com/photo-1590054228925-15326e6f232c?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$480",
+            "hotel_price": "$90/night",
+            "link": "https://www.google.com/search?q=Istanbul+Turkey"
+        },
+        {
+            "title": "Prague, Czech Republic",
+            "description": "Medieval streets, Gothic cathedrals, and charming bridges make Prague a fairy tale city.",
+            "thumbnail": "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$510",
+            "hotel_price": "$85/night",
+            "link": "https://www.google.com/search?q=Prague+Czech+Republic"
+        },
+        {
+            "title": "Santorini, Greece",
+            "description": "White-washed houses, deep blue seas, and breathtaking sunsets await in Santorini.",
+            "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$620",
+            "hotel_price": "$140/night",
+            "link": "https://www.google.com/search?q=Santorini+Greece"
+        },
+        {
+            "title": "Zurich, Switzerland",
+            "description": "Nestled among mountains, Zurich blends financial prowess with lakeside serenity.",
+            "thumbnail": "https://images.unsplash.com/photo-1602524208813-b8aeb80f08a9?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$650",
+            "hotel_price": "$200/night",
+            "link": "https://www.google.com/search?q=Zurich+Switzerland"
+        },
+        {
+            "title": "Vienna, Austria",
+            "description": "Imperial palaces, classical music, and cozy coffeehouses define Vienna's charm.",
+            "thumbnail": "https://images.unsplash.com/photo-1530569673472-307dc017a88d?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$490",
+            "hotel_price": "$140/night",
+            "link": "https://www.google.com/search?q=Vienna+Austria"
+        },
+        {
+            "title": "Seoul, South Korea",
+            "description": "A futuristic skyline meets ancient temples and vibrant street food in Seoul.",
+            "thumbnail": "https://images.unsplash.com/photo-1538991383142-36c4edeaff6e?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$580",
+            "hotel_price": "$110/night",
+            "link": "https://www.google.com/search?q=Seoul+South+Korea"
+        },
+        {
+            "title": "Bangkok, Thailand",
+            "description": "A bustling capital filled with ornate temples, floating markets, and street food.",
+            "thumbnail": "https://images.unsplash.com/photo-1509228627151-72a5d3fdbdb2?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$430",
+            "hotel_price": "$60/night",
+            "link": "https://www.google.com/search?q=Bangkok+Thailand"
+        },
+        {
+            "title": "Kuala Lumpur, Malaysia",
+            "description": "Skyscrapers, street food, and the iconic Petronas Towers make Kuala Lumpur shine.",
+            "thumbnail": "https://images.unsplash.com/photo-1588944434603-90b8e9f6ec4d?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$410",
+            "hotel_price": "$80/night",
+            "link": "https://www.google.com/search?q=Kuala+Lumpur+Malaysia"
+        },
+        {
+            "title": "Vancouver, Canada",
+            "description": "Surrounded by mountains and sea, Vancouver is a haven for outdoor lovers.",
+            "thumbnail": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$540",
+            "hotel_price": "$150/night",
+            "link": "https://www.google.com/search?q=Vancouver+Canada"
+        },
+        {
+            "title": "Lisbon, Portugal",
+            "description": "Colorful streets, seaside charm, and soulful Fado music make Lisbon unforgettable.",
+            "thumbnail": "https://images.unsplash.com/photo-1532798442725-41036acc7489?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$470",
+            "hotel_price": "$95/night",
+            "link": "https://www.google.com/search?q=Lisbon+Portugal"
+        },
+        {
+            "title": "Moscow, Russia",
+            "description": "Stunning architecture, historic Red Square, and rich culture define Moscow.",
+            "thumbnail": "https://images.unsplash.com/photo-1561473897-76ab435f2d2b?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$600",
+            "hotel_price": "$120/night",
+            "link": "https://www.google.com/search?q=Moscow+Russia"
+        },
+        {
+            "title": "Athens, Greece",
+            "description": "The cradle of Western civilization, featuring ancient ruins and vibrant markets.",
+            "thumbnail": "https://images.unsplash.com/photo-1573819099255-24498e7f622e?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$510",
+            "hotel_price": "$100/night",
+            "link": "https://www.google.com/search?q=Athens+Greece"
+        },
+        {
+            "title": "Buenos Aires, Argentina",
+            "description": "The Paris of South America, known for tango, steak, and grand architecture.",
+            "thumbnail": "https://images.unsplash.com/photo-1505672678657-cc7037095e94?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$710",
+            "hotel_price": "$85/night",
+            "link": "https://www.google.com/search?q=Buenos+Aires+Argentina"
+        },
+        {
+            "title": "Cairo, Egypt",
+            "description": "Explore ancient pyramids, bustling markets, and the mighty Nile River.",
+            "thumbnail": "https://images.unsplash.com/photo-1572947650448-6947b158a7e6?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$630",
+            "hotel_price": "$75/night",
+            "link": "https://www.google.com/search?q=Cairo+Egypt"
+        },
+        {
+            "title": "Reykjavík, Iceland",
+            "description": "Stunning landscapes, the Northern Lights, and geothermal wonders await here.",
+            "thumbnail": "https://images.unsplash.com/photo-1532281211996-5ef2e58b8ca7?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$890",
+            "hotel_price": "$210/night",
+            "link": "https://www.google.com/search?q=Reykjavík+Iceland"
+        },
+        {
+            "title": "Hanoi, Vietnam",
+            "description": "A blend of ancient temples, bustling streets, and serene lakes in Vietnam's capital.",
+            "thumbnail": "https://images.unsplash.com/photo-1598234082857-e9e9b61e4f7b?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$400",
+            "hotel_price": "$55/night",
+            "link": "https://www.google.com/search?q=Hanoi+Vietnam"
+        },
+        {
+            "title": "Lima, Peru",
+            "description": "A coastal city with rich history, culinary delights, and nearby ancient wonders.",
+            "thumbnail": "https://images.unsplash.com/photo-1571231263921-dc89e95ab96e?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$670",
+            "hotel_price": "$90/night",
+            "link": "https://www.google.com/search?q=Lima+Peru"
+        },
+        {
+            "title": "Edinburgh, Scotland",
+            "description": "Medieval castles, dramatic landscapes, and literary festivals enrich Edinburgh's charm.",
+            "thumbnail": "https://images.unsplash.com/photo-1547470384-66694c6fbc30?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$520",
+            "hotel_price": "$130/night",
+            "link": "https://www.google.com/search?q=Edinburgh+Scotland"
+        },
+        {
+            "title": "Doha, Qatar",
+            "description": "A blend of futuristic architecture, desert landscapes, and rich Arabian culture.",
+            "thumbnail": "https://images.unsplash.com/photo-1591019475365-b3c3354b8167?auto=format&fit=crop&w=800&q=80",
+            "flight_price": "$640",
+            "hotel_price": "$170/night",
+            "link": "https://www.google.com/search?q=Doha+Qatar"
+        }
+    ],
+    "profile": {
+        "name": "travel-api"
     }
-  ],
-  "profile": {
-    "name": "travel-api"
-  }
 }
