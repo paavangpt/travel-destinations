@@ -1,0 +1,87 @@
+{
+  "destinations": [
+    {
+      "title": "Paris, France",
+      "description": "The romantic capital of the world, home to the Eiffel Tower, exquisite art, and charming cafés.",
+      "thumbnail": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$450",
+      "hotel_price": "$120/night",
+      "link": "https://www.google.com/search?q=Paris+France"
+    },
+    {
+      "title": "Tokyo, Japan",
+      "description": "A buzzing metropolis where cutting-edge technology meets serene temples and cherry blossoms.",
+      "thumbnail": "https://images.unsplash.com/photo-1518733057094-95b53151d6db?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$700",
+      "hotel_price": "$150/night",
+      "link": "https://www.google.com/search?q=Tokyo+Japan"
+    },
+    {
+      "title": "Cape Town, South Africa",
+      "description": "Spectacular landscapes with Table Mountain, pristine beaches, and vibrant culture.",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$620",
+      "hotel_price": "$110/night",
+      "link": "https://www.google.com/search?q=Cape+Town+South+Africa"
+    },
+    {
+      "title": "Sydney, Australia",
+      "description": "A coastal city famous for its Opera House, stunning beaches, and laid-back vibe.",
+      "thumbnail": "https://images.unsplash.com/photo-1506976785307-8732e854ad5e?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$800",
+      "hotel_price": "$130/night",
+      "link": "https://www.google.com/search?q=Sydney+Australia"
+    },
+    {
+      "title": "New York City, USA",
+      "description": "The city that never sleeps, packed with iconic landmarks and a diverse food scene.",
+      "thumbnail": "https://images.unsplash.com/photo-1533106418989-88406c7cc8f6?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$550",
+      "hotel_price": "$180/night",
+      "link": "https://www.google.com/search?q=New+York+City+USA"
+    },
+    {
+      "title": "Rome, Italy",
+      "description": "An eternal city filled with ancient ruins, Renaissance art, and vibrant street life.",
+      "thumbnail": "https://images.unsplash.com/photo-1549887534-5a3231f7c59c?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$520",
+      "hotel_price": "$140/night",
+      "link": "https://www.google.com/search?q=Rome+Italy"
+    },
+    {
+      "title": "Bali, Indonesia",
+      "description": "A tropical paradise known for its beaches, rice terraces, and spiritual heritage.",
+      "thumbnail": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$400",
+      "hotel_price": "$90/night",
+      "link": "https://www.google.com/search?q=Bali+Indonesia"
+    },
+    {
+      "title": "Rio de Janeiro, Brazil",
+      "description": "A vibrant city famous for its carnival, Sugarloaf Mountain, and Copacabana beach.",
+      "thumbnail": "https://images.unsplash.com/photo-1523992034529-5e52729b96b0?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$750",
+      "hotel_price": "$100/night",
+      "link": "https://www.google.com/search?q=Rio+de+Janeiro+Brazil"
+    },
+    {
+      "title": "Barcelona, Spain",
+      "description": "A cultural hotspot renowned for Gaudí's architecture, tapas bars, and sunny beaches.",
+      "thumbnail": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$480",
+      "hotel_price": "$115/night",
+      "link": "https://www.google.com/search?q=Barcelona+Spain"
+    },
+    {
+      "title": "Dubai, UAE",
+      "description": "A futuristic city in the desert, home to the world's tallest building and luxury shopping.",
+      "thumbnail": "https://images.unsplash.com/photo-1504274066651-8d31a536b11a?auto=format&fit=crop&w=800&q=80",
+      "flight_price": "$670",
+      "hotel_price": "$160/night",
+      "link": "https://www.google.com/search?q=Dubai+UAE"
+    }
+  ],
+  "profile": {
+    "name": "travel-api"
+  }
+}
