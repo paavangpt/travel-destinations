@@ -1,50 +1,75 @@
 {
     "destinations": [
-       
-  {
-    "id": 1,
-    "title": "Espresso",
-    "description": "A strong and rich coffee made by forcing hot water through finely-ground coffee beans.",
-    "image": "https://picsum.photos/id/1/400/300",
-    "ingredients": ["Water", "Coffee Beans"]
-  },
-  {
-    "id": 2,
-    "title": "Cappuccino",
-    "description": "A perfect balance of espresso, steamed milk, and foam.",
-    "image": "https://picsum.photos/id/2/400/300",
-    "ingredients": ["Espresso", "Steamed Milk", "Foam"]
-  },
-  {
-    "id": 3,
-    "title": "Latte",
-    "description": "Smooth espresso with a generous amount of steamed milk.",
-    "image": "https://picsum.photos/id/3/400/300",
-    "ingredients": ["Espresso", "Steamed Milk"]
-  },
-  {
-    "id": 4,
-    "title": "Mocha",
-    "description": "A chocolate-flavored coffee drink that combines espresso, milk, and cocoa.",
-    "image": "https://picsum.photos/id/4/400/300",
-    "ingredients": ["Espresso", "Steamed Milk", "Cocoa"]
-  },
-  {
-    "id": 5,
-    "title": "Americano",
-    "description": "Espresso diluted with hot water for a lighter taste.",
-    "image": "https://picsum.photos/id/5/400/300",
-    "ingredients": ["Espresso", "Water"]
-  },
-  {
-    "id": 6,
-    "title": "Macchiato",
-    "description": "Espresso marked with a small amount of frothy milk.",
-    "image": "https://picsum.photos/id/6/400/300",
-    "ingredients": ["Espresso", "Milk Foam"]
-  }
-
-
+        {
+            "id": 1,
+            "title": "Espresso",
+            "description": "A strong and rich coffee made by forcing hot water through finely-ground coffee beans.",
+            "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Water", "Coffee Beans"]
+          },
+          {
+            "id": 2,
+            "title": "Cappuccino",
+            "description": "A perfect balance of espresso, steamed milk, and foam.",
+            "image": "https://images.unsplash.com/photo-1556909215-34cd1098d85c?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Espresso", "Steamed Milk", "Foam"]
+          },
+          {
+            "id": 3,
+            "title": "Latte",
+            "description": "Smooth espresso with a generous amount of steamed milk.",
+            "image": "https://images.unsplash.com/photo-1587731562974-4d3b33b14d1f?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Espresso", "Steamed Milk"]
+          },
+          {
+            "id": 4,
+            "title": "Mocha",
+            "description": "A chocolate-flavored coffee drink that combines espresso, milk, and cocoa.",
+            "image": "https://images.unsplash.com/photo-1601312375522-783631100e66?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Espresso", "Steamed Milk", "Cocoa"]
+          },
+          {
+            "id": 5,
+            "title": "Americano",
+            "description": "Espresso diluted with hot water for a lighter taste.",
+            "image": "https://images.unsplash.com/photo-1494319827402-c4b3f04779ff?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Espresso", "Water"]
+          },
+          {
+            "id": 6,
+            "title": "Macchiato",
+            "description": "Espresso marked with a small amount of frothy milk.",
+            "image": "https://images.unsplash.com/photo-1604908177522-4024e556bb3c?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Espresso", "Milk Foam"]
+          },
+          {
+            "id": 7,
+            "title": "Flat White",
+            "description": "Similar to a latte but with a higher coffee-to-milk ratio.",
+            "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Espresso", "Steamed Milk"]
+          },
+          {
+            "id": 8,
+            "title": "Irish Coffee",
+            "description": "A cocktail of hot coffee, Irish whiskey, sugar, and cream.",
+            "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Coffee", "Whiskey", "Sugar", "Cream"]
+          },
+          {
+            "id": 9,
+            "title": "Cold Brew",
+            "description": "Coffee brewed slowly with cold water for a smooth, less acidic taste.",
+            "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Coffee Beans", "Cold Water"]
+          },
+          {
+            "id": 10,
+            "title": "Affogato",
+            "description": "A scoop of vanilla ice cream topped with a shot of hot espresso.",
+            "image": "https://images.unsplash.com/photo-1604152135912-04a02e33d38b?auto=format&fit=crop&w=800&q=80",
+            "ingredients": ["Espresso", "Vanilla Ice Cream"]
+          }
     ],
     "profile": {
         "name": "travel-api"
