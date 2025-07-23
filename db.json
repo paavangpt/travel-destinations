@@ -1,61 +1,50 @@
 {
     "destinations": [
-        {
-            "title": "Paris, France",
-            "description": "The romantic capital of the world, home to the Eiffel Tower, exquisite art, and charming cafés.",
-            "thumbnail": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80",
-            "flight_price": "$450",
-            "hotel_price": "$120/night",
-            "link": "https://www.google.com/search?q=Paris+France"
-        },
-        {
-            "title": "Tokyo, Japan",
-            "description": "A buzzing metropolis where cutting-edge technology meets serene temples and cherry blossoms.",
-            "thumbnail": "https://plus.unsplash.com/premium_photo-1661914240950-b0124f20a5c1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "flight_price": "$700",
-            "hotel_price": "$150/night",
-            "link": "https://www.google.com/search?q=Tokyo+Japan"
-        },
-        {
-            "title": "Cape Town, South Africa",
-            "description": "Spectacular landscapes with Table Mountain, pristine beaches, and vibrant culture.",
-            "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
-            "flight_price": "$620",
-            "hotel_price": "$110/night",
-            "link": "https://www.google.com/search?q=Cape+Town+South+Africa"
-        },
-        {
-            "title": "Sydney, Australia",
-            "description": "A coastal city famous for its Opera House, stunning beaches, and laid-back vibe.",
-            "thumbnail": "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "flight_price": "$800",
-            "hotel_price": "$130/night",
-            "link": "https://www.google.com/search?q=Sydney+Australia"
-        },
-        {
-            "title": "New York City, USA",
-            "description": "The city that never sleeps, packed with iconic landmarks and a diverse food scene.",
-            "thumbnail": "https://images.unsplash.com/photo-1533106418989-88406c7cc8f6?auto=format&fit=crop&w=800&q=80",
-            "flight_price": "$550",
-            "hotel_price": "$180/night",
-            "link": "https://www.google.com/search?q=New+York+City+USA"
-        },
-        {
-            "title": "Rome, Italy",
-            "description": "An eternal city filled with ancient ruins, Renaissance art, and vibrant street life.",
-            "thumbnail": "https://images.unsplash.com/photo-1549887534-5a3231f7c59c?auto=format&fit=crop&w=800&q=80",
-            "flight_price": "$520",
-            "hotel_price": "$140/night",
-            "link": "https://www.google.com/search?q=Rome+Italy"
-        },
-        {
-            "title": "Bali, Indonesia",
-            "description": "A tropical paradise known for its beaches, rice terraces, and spiritual heritage.",
-            "thumbnail": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
-            "flight_price": "$400",
-            "hotel_price": "$90/night",
-            "link": "https://www.google.com/search?q=Bali+Indonesia"
-        }
+       
+  {
+    "id": 1,
+    "title": "Espresso",
+    "description": "A strong and rich coffee made by forcing hot water through finely-ground coffee beans.",
+    "image": "https://picsum.photos/id/1/400/300",
+    "ingredients": ["Water", "Coffee Beans"]
+  },
+  {
+    "id": 2,
+    "title": "Cappuccino",
+    "description": "A perfect balance of espresso, steamed milk, and foam.",
+    "image": "https://picsum.photos/id/2/400/300",
+    "ingredients": ["Espresso", "Steamed Milk", "Foam"]
+  },
+  {
+    "id": 3,
+    "title": "Latte",
+    "description": "Smooth espresso with a generous amount of steamed milk.",
+    "image": "https://picsum.photos/id/3/400/300",
+    "ingredients": ["Espresso", "Steamed Milk"]
+  },
+  {
+    "id": 4,
+    "title": "Mocha",
+    "description": "A chocolate-flavored coffee drink that combines espresso, milk, and cocoa.",
+    "image": "https://picsum.photos/id/4/400/300",
+    "ingredients": ["Espresso", "Steamed Milk", "Cocoa"]
+  },
+  {
+    "id": 5,
+    "title": "Americano",
+    "description": "Espresso diluted with hot water for a lighter taste.",
+    "image": "https://picsum.photos/id/5/400/300",
+    "ingredients": ["Espresso", "Water"]
+  },
+  {
+    "id": 6,
+    "title": "Macchiato",
+    "description": "Espresso marked with a small amount of frothy milk.",
+    "image": "https://picsum.photos/id/6/400/300",
+    "ingredients": ["Espresso", "Milk Foam"]
+  }
+
+
     ],
     "profile": {
         "name": "travel-api"
